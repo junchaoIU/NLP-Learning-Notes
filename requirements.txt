@@ -1,0 +1,4 @@
+mkdocs-material==8.2.6
+
+mkdocs-minify-plugin >= 0.5.0
+mkdocs-git-revision-date-localized-plugin >= 1.0.0
