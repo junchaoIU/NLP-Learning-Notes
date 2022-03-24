@@ -62,3 +62,6 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/junchaoIU/IS-Learning-Notes/
+
+nav:
+  - 简介: "introduction.md"
