@@ -4,6 +4,7 @@
 这是一本信息科学/计算机科学/数据科学的学习笔记，包含了笔者当前的部分笔记和研究领域综述笔记，大部分笔记还未整理完成，会不断更新。
 是对自己大学本科四年求学生涯的一份总结，也是对即将到来的研究生生涯的准备、鞭策和展望。
 
+----
 # 关于作者
 - 👋 Hi, I’m WU,Junchao, from ZHA, China.
 - 👀 I’m focusing on Information Science、Knowledge Graph, Natural language processing and data mining at the moment
