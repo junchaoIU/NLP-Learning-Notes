@@ -32,7 +32,7 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: light blue
+      primary: light purple
       accent: deep purple
       toggle:
         icon: material/weather-sunny
