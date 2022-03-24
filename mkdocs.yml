@@ -65,3 +65,7 @@ extra:
 
 nav:
   - 简介: "index.md"
+  - 立场检测研究:
+      - 立场检测笔记: "立场检测研究/立场检测研究.md"
+      - 数据集:
+          - "NLPCC2016-Task4": "立场检测研究/NLPCC2016-Task4/NLPCC2016-Task4.md"
