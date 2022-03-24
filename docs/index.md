@@ -1,20 +1,21 @@
 # 关于站点
-个人学习笔记
+本书最新网址 https://junchaoiu.github.io/IS-Learning-Notes ，欢迎大家访问 ～
+
+这是一本信息科学/计算机科学/数据科学的学习笔记，包含了笔者当前的部分笔记和研究领域综述笔记，大部分笔记还未整理完成，会不断更新。
+是对自己大学本科四年求学生涯的一份总结，也是对即将到来的研究生生涯的准备、鞭策和展望。
 
 # 关于作者
-<a href="http://www.wujunchao.top/" target="_blank"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E7%AB%99%E7%82%B9-%E6%98%A5%E5%A4%A9%E5%92%8C%E7%88%B1%E6%83%85%E3%81%AE%E6%A8%B1%E8%8A%B1🌸-pink"></a>&nbsp;&nbsp;<a href="https://www.cnblogs.com/wujunchao/" target="_blank"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E5%9B%AD-%E6%A2%A6%E6%B7%91%E7%9A%84%E6%A8%B1%E8%8A%B1%E5%BA%84-blue"></a>&nbsp;&nbsp;<a href="https://www.yuque.com/wujunchao" target="_blank"><img src="https://img.shields.io/badge/%E8%AF%AD%E9%9B%80-CC%E7%9A%84%E7%9F%A5%E8%AF%86%E5%BA%93-green"></a>
-
-- 👋 Hi, I’m @junchaoIU, from ZHA, China.
+- 👋 Hi, I’m WU,Junchao, from ZHA, China.
 - 👀 I’m focusing on Information Science、Knowledge Graph, Natural language processing and data mining at the moment
 - 🌱 I’m currently a senior student and rapt in NLP, ML and DL
 - 📫 if you have any questions or ideas, please feel free to contact with my by my Email: wujunchaoIU@outlook.com. I'm looking forward for a nice sharing or a great cooperation.
 
-## **MY RECENT FOCUSING**
+## 当前的研究工作
 - Automatic construction of Knowledge Graph in revolutionary historical documents
 - Stance Detection in Chinese Microblogs and Billbill comments
 - Development of AutoProtege
 
-## **LANGUAGES AND FRAMEWORKS**
+## 编程语言和技术栈
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-192133?style=flat-square&logo=javaScript&logoColor=white)

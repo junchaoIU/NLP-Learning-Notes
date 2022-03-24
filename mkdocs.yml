@@ -64,7 +64,7 @@ extra:
       link: https://github.com/junchaoIU/IS-Learning-Notes/
 
 nav:
-  - 简介: "index.md"
+  - 前言: "index.md"
   - 立场检测研究:
       - 立场检测笔记: "立场检测研究/立场检测研究.md"
       - 数据集:
