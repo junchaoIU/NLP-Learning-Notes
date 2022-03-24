@@ -13,21 +13,21 @@ theme:
   include_search_page: false
   search_index_only: true
 
-features:
-    - header.autohide
-    # - navigation.instant
-    # - navigation.expand
-    # - navigation.sections
-    - navigation.tracking
-    # - navigation.tabs
-    # - navigation.tabs.sticky
-    - navigation.top
-    # - navigation.indexes
-    - search.highlight
-    - search.share
-    - search.suggest
-    # - toc.integrate
-    - content.code.annotate
+  features:
+      - header.autohide
+      # - navigation.instant
+      # - navigation.expand
+      # - navigation.sections
+      - navigation.tracking
+      # - navigation.tabs
+      # - navigation.tabs.sticky
+      - navigation.top
+      # - navigation.indexes
+      - search.highlight
+      - search.share
+      - search.suggest
+      # - toc.integrate
+      - content.code.annotate
 
   palette:
     - media: "(prefers-color-scheme: light)"
