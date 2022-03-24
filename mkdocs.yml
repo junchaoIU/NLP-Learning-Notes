@@ -1,3 +1,14 @@
-site_name: My Docs
+site_name: 信息科学学习笔记
+site_author: WU,Junchao
+
+repo_name: IS-Learning-Notes
+repo_url: https://github.com/junchaoIU/IS-Learning-Notes/
+
+copyright: Copyright &copy; 2022-present <a href="https://github.com/junchaoIU" target="_blank" rel="noopener noreferrer">WU,Junchao</a>
+
+
 theme:
   name: material
+  language: zh
+  include_search_page: false
+  search_index_only: true
