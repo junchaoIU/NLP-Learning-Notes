@@ -92,6 +92,7 @@ nav:
       - PageRank算法: "统计机器学习/PageRank算法/PageRank算法.md"
   - 深度学习算法:
       - BERT: "深度学习算法/BERT/BERT.md"
+      - LSTM: "深度学习算法/LSTM/LSTM.md"
   - 知识图谱技术:
       - 知识图谱概述: "知识图谱技术/知识图谱概述/知识图谱概述.md"
       - 知识表示: "知识图谱技术/知识表示/知识表示.md"
