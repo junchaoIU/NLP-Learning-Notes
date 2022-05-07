@@ -95,6 +95,7 @@ nav:
       - BERT: "深度学习算法/BERT/BERT.md"
       - LSTM: "深度学习算法/LSTM/LSTM.md"
       - RNNs: "深度学习算法/RNNs/RNNs.md"
+      - Transformer: "深度学习算法/Transformer/Transformer.md"
   - 知识图谱技术:
       - 知识图谱概述: "知识图谱技术/知识图谱概述/知识图谱概述.md"
       - 知识表示: "知识图谱技术/知识表示/知识表示.md"
