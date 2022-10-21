@@ -117,10 +117,13 @@ nav:
       - RNN神经机器翻译: "机器翻译/RNN神经机器翻译.md"
       - CNN神经机器翻译: "机器翻译/CNN神经机器翻译.md"
       - Transformer神经机器翻译: "机器翻译/Transformer神经机器翻译.md"
+      - 无监督机器翻译: "机器翻译/无监督机器翻译.md"
       - 多语言机器翻译: "机器翻译/多语言机器翻译.md"
       - 多模态机器翻译: "机器翻译/多模态机器翻译.md"
       - 篇章机器翻译: "机器翻译/篇章机器翻译.md"
       - 领域自适应: "机器翻译/领域自适应.md"
+      - 知识图谱增强的机器翻译: "机器翻译/知识图谱增强的机器翻译.md"
+      - mBART: "机器翻译/mBART：Multilingual Denoising Pre-training for Neural Machine Translation.md"
   - 立场检测研究:
       - 立场检测笔记: "立场检测研究/立场检测研究.md"
       - 数据集:
