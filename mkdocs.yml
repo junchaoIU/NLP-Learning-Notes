@@ -129,6 +129,6 @@ nav:
       - 立场检测笔记: "立场检测研究/立场检测研究.md"
       - 数据集:
           - "NLPCC2016-Task4": "立场检测研究/NLPCC2016-Task4/NLPCC2016-Task4.md"
-  - 经验笔记：
-      - PyTorch安装: "经验之谈/PyTorch安装.md"
+  - 经验笔记:
+      - PyTorch安装: "经验之谈/Pytorch安装.md"
       - Fairseq框架: "经验之谈/fairseq笔记.md"
