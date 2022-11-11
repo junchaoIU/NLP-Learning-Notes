@@ -30,26 +30,11 @@ CS是一个很广泛的领域，是下一个50年各学科飞速发展的助力�
 - 🌈 [Chen Xin](https://github.com/Chen-X666) is one of my best friends, who focus on BA and NLP at University of Southampton currently, he has a lot of interesting dreams.
 - 📫 if you have any questions or ideas, please feel free to contact with my by my Email: wujunchaoIU@outlook.com. I'm looking forward for a nice sharing or a great cooperation.
 
-## **MY RECENT FOCUSING**
+## ✨ 当前的研究工作
 - Unsupervised and Low-resource Machine Translation
 - Automatic construction of Knowledge Graphs in documents
 - Development of AutoProtege
 - Public Opinion Analysis on Billbill
-
-## **LANGUAGES AND FRAMEWORKS**
-![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-192133?style=flat-square&logo=javaScript&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-192133?style=flat-square&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/-React-192133?style=flat-square&logo=react&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
-![Kreas](https://img.shields.io/badge/-Kreas-192133?style=flat-square&logo=figma&logoColor=white)
-![Tensortflow](https://img.shields.io/badge/-Tensortflow-192133?style=flat-square&logo=figma&logoColor=white)
-
-## ✨ 当前的研究工作
-- Automatic construction of Knowledge Graph in revolutionary historical documents
-- Stance Detection in Chinese Microblogs and Billbill comments
-- Development of AutoProtege
 
 ## ⚙ 编程语言和技术栈
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=java&logoColor=white)
