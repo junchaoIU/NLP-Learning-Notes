@@ -123,8 +123,12 @@ nav:
       - 篇章机器翻译: "机器翻译/篇章机器翻译.md"
       - 领域自适应: "机器翻译/领域自适应.md"
       - 知识图谱增强的机器翻译: "机器翻译/知识图谱增强的机器翻译.md"
+      - BPE编码: "机器翻译/BPE编码.md"
       - mBART: "机器翻译/mBART：Multilingual Denoising Pre-training for Neural Machine Translation.md"
   - 立场检测研究:
       - 立场检测笔记: "立场检测研究/立场检测研究.md"
       - 数据集:
           - "NLPCC2016-Task4": "立场检测研究/NLPCC2016-Task4/NLPCC2016-Task4.md"
+  - 经验笔记：
+      - PyTorch安装: "经验之谈/PyTorch安装.md"
+      - Fairseq框架: "经验之谈/fairseq笔记.md"
