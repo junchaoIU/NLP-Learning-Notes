@@ -1,5 +1,4 @@
 # PyTorch GPU安装
-https://zhuanlan.zhihu.com/p/106133822
 ## CUDA
 1. 通过```nvidia-smi``` 查看Driver Version（显卡的驱动版本）
 - 在 https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html 查看可以接受的版本
@@ -24,6 +23,9 @@ https://zhuanlan.zhihu.com/p/106133822
 
     # True
     ```
+
+## Reference
+https://zhuanlan.zhihu.com/p/106133822
 
 
 
