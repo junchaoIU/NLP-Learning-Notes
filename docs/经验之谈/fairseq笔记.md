@@ -10,6 +10,9 @@ pip install --editable ./
 # 安装失败的可能原因：版本问题
 PyTorch version >= 1.10.0
 Python version >= 3.8
+
+#Linux 出现gcc版本问题
+conda install https://anaconda.org/brown-data-science/gcc/5.4.0/download/linux-64/gcc-5.4.0-0.tar.bz2
 ```
 
 
