@@ -24,6 +24,7 @@ NLP笔记，入门概念，基础知识，研究方法，顶会研读
 
 - 机器翻译
     - [无监督机器翻译](https://github.com/junchaoIU/IS-Learning-Notes/tree/main/docs/机器翻译/无监督机器翻译.md)
+        - [WORD TRANSLATION WITHOUT PARALLEL DATA (Alexis Conneau, 2018, ICLR)](https://github.com/junchaoIU/IS-Learning-Notes/tree/main/docs/机器翻译/无监督机器翻译.md)
 
 -----
 ## 🍉 欢迎批评指正 
