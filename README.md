@@ -12,15 +12,15 @@ NLP笔记，入门概念，基础知识，研究方法，顶会研读
 -----
 ## ✨导航
 - 知识图谱技术:
-    - [知识图谱概述]("https://junchaoiu.github.io/IS-Learning-Notes/blob/main/docs/知识图谱技术/知识图谱概述/知识图谱概述.md")
-    - 知识表示: "知识图谱技术/知识表示/知识表示.md"
-    - 知识建模: "知识图谱技术/知识建模/知识建模.md"
-    - 知识抽取: "知识图谱技术/知识抽取/知识抽取.md"
-    - 知识融合: "知识图谱技术/知识融合/知识融合.md"
-    - 知识表示学习: "知识图谱技术/知识表示学习/知识表示学习.md"
-    - 知识存储: "知识图谱技术/知识存储/知识存储.md"
-    - 知识推理: "知识图谱技术/知识推理/知识推理.md"
-    - 多模态知识图谱概述: "知识图谱技术/多模态知识图谱概述/多模态知识图谱概述.md"
+    - [知识图谱概述](https://github.com/junchaoIU/IS-Learning-Notes/tree/main/docs/知识图谱技术/知识图谱概述/知识图谱概述.md)
+    - [知识表示](https://github.com/junchaoIU/IS-Learning-Notes/tree/main/docs/知识图谱技术/知识表示/知识表示.md)
+    - [知识建模](https://github.com/junchaoIU/IS-Learning-Notes/tree/main/docs/知识图谱技术/知识建模/知识建模.md)
+    - [知识抽取](https://github.com/junchaoIU/IS-Learning-Notes/tree/main/docs/知识图谱技术/知识抽取/知识抽取.md)
+    - [知识融合](https://github.com/junchaoIU/IS-Learning-Notes/tree/main/docs/知识图谱技术/知识融合/知识融合.md)
+    - [知识表示学习](https://github.com/junchaoIU/IS-Learning-Notes/tree/main/docs/知识图谱技术/知识表示学习/知识表示学习.md)
+    - [知识存储](https://github.com/junchaoIU/IS-Learning-Notes/tree/main/docs/知识图谱技术/知识存储/知识存储.md)
+    - [知识推理](https://github.com/junchaoIU/IS-Learning-Notes/tree/main/docs/知识图谱技术/知识推理/知识推理.md)
+    - [多模态知识图谱概述](https://github.com/junchaoIU/IS-Learning-Notes/tree/main/docs/知识图谱技术/多模态知识图谱概述/多模态知识图谱概述.md)
 
 
 
