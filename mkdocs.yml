@@ -1,8 +1,8 @@
-site_name: 信息科学学习笔记
+site_name: NLP学习笔记
 site_author: WU,Junchao
 
-repo_name: IS-Learning-Notes
-repo_url: https://github.com/junchaoIU/IS-Learning-Notes/
+repo_name: NLP-Learning-Notes
+repo_url: https://github.com/junchaoIU/NLP-Learning-Notes/
 
 copyright: Copyright &copy; 2022-present <a href="https://github.com/junchaoIU" target="_blank" rel="noopener noreferrer">WU,Junchao</a>
 
@@ -61,7 +61,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/junchaoIU/IS-Learning-Notes/
+      link: https://github.com/junchaoIU/NLP-Learning-Notes/
 
 nav:
   - 前言: "index.md"
@@ -124,7 +124,7 @@ nav:
       - 领域自适应: "机器翻译/领域自适应.md"
       - 知识图谱增强的机器翻译: "机器翻译/知识图谱增强的机器翻译.md"
       - BPE编码: "机器翻译/BPE编码.md"
-      - mBART: "机器翻译/mBART：Multilingual Denoising Pre-training for Neural Machine Translation.md"
+      - 机器翻译预训练模型: "机器翻译/机器翻译预训练模型.md"
   - 立场检测研究:
       - 立场检测笔记: "立场检测研究/立场检测研究.md"
       - 数据集:

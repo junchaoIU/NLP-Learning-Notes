@@ -38,6 +38,8 @@ NLP笔记，入门概念，基础知识，研究方法，顶会研读
         - [UNSUPERVISED MACHINE TRANSLATION USING MONOLINGUAL CORPORA ONLY (Guillaume Lample, ICLR, 2018)](https://github.com/junchaoIU/NLP-Learning-Notes/blob/main/docs/%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91/%E6%97%A0%E7%9B%91%E7%9D%A3%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91.md#unsupervised-machine-translation-using-monolingual-corpora-only-guillaume-lample2018iclr)
         - [Phrase-Based & Neural Unsupervised Machine Translation (Guillaume Lample, EMNLP, 2018)](https://github.com/junchaoIU/NLP-Learning-Notes/blob/main/docs/%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91/%E6%97%A0%E7%9B%91%E7%9D%A3%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91.md#phrase-based--neural-unsupervised-machine-translationguillaume-lample-emnlp-2018)
         - [Adapting High-resource NMT Models to Translate Low-resource Related Languages without Parallel Data, ACL, 2021](https://github.com/junchaoIU/NLP-Learning-Notes/blob/main/docs/%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91/%E6%97%A0%E7%9B%91%E7%9D%A3%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91.md#adapting-high-resource-nmt-models-to-translate-low-resource-related-languages-without-parallel-data)
+    - [机器翻译预训练模型](https://github.com/junchaoIU/NLP-Learning-Notes/tree/main/docs/机器翻译/机器翻译预训练模型.md)
+        - [Multilingual Denoising Pre-training for Neural Machine Translation, ACL, 2022](https://github.com/junchaoIU/NLP-Learning-Notes/blob/main/docs/%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91/%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B.md) 
 -----
 ## 🍉 欢迎批评指正 
 由于个人水平有限，笔记中难免有笔误甚至概念错误之处，请各位不吝赐教，在issue中提出来。
