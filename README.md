@@ -45,6 +45,7 @@ NLP笔记，入门概念，基础知识，研究方法，顶会研读
 
     - [机器翻译预训练模型](https://github.com/junchaoIU/NLP-Learning-Notes/tree/main/docs/机器翻译/机器翻译预训练模型.md)
         - [Multilingual Denoising Pre-training for Neural Machine Translation (Yinhan Liu, Transactions of the Association for Computational Linguistics, 2022)](https://github.com/junchaoIU/NLP-Learning-Notes/blob/main/docs/%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91/%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B.md) 
+        - [Cross-lingual Language Model Pretraining (Guillaume Lample, NeurIPS, 2019)](https://github.com/junchaoIU/NLP-Learning-Notes/blob/main/docs/%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91/%E6%97%A0%E7%9B%91%E7%9D%A3%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91.md#cross-lingual-language-model-pretraining-guillaume-lample-neurips-2019)
 
 
 - 未分类
